@@ -1,0 +1,14 @@
+[
+  {
+    "package": "EFDR",
+    "oncran": true
+  },
+  {
+    "package": "FRK",
+    "oncran": true
+  },
+  {
+    "package": "IDE",
+    "oncran": true
+  }
+]
