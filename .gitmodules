@@ -8,13 +8,13 @@
 	url = https://github.com/andrewzm/efdr
 	shallow = true
 	registered = true
-[submodule "FRK"]
-	path = FRK
-	url = https://github.com/andrewzm/frk
-	shallow = true
-	registered = true
 [submodule "IDE"]
 	path = IDE
 	url = https://github.com/andrewzm/ide
+	shallow = true
+	registered = true
+[submodule "FRK"]
+	path = FRK
+	url = https://github.com/andrewzm/frk
 	shallow = true
 	registered = true
