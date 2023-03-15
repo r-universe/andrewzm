@@ -4,11 +4,11 @@
     "oncran": true
   },
   {
-    "package": "IDE",
+    "package": "FRK",
     "oncran": true
   },
   {
-    "package": "FRK",
+    "package": "IDE",
     "oncran": true
   }
 ]
