@@ -18,3 +18,8 @@
 	url = https://github.com/andrewzm/ide
 	shallow = true
 	registered = true
+[submodule "sparseinv"]
+	path = sparseinv
+	url = https://github.com/andrewzm/sparseinv
+	shallow = true
+	registered = true

@@ -10,5 +10,9 @@
   {
     "package": "IDE",
     "oncran": true
+  },
+  {
+    "package": "sparseinv",
+    "oncran": true
   }
 ]
