@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "EFDR"]
 	path = EFDR
 	url = https://github.com/andrewzm/efdr
-	shallow = true
-	registered = true
 [submodule "FRK"]
 	path = FRK
 	url = https://github.com/andrewzm/frk
-	shallow = true
-	registered = true
 [submodule "IDE"]
 	path = IDE
 	url = https://github.com/andrewzm/ide
-	shallow = true
-	registered = true
 [submodule "sparseinv"]
 	path = sparseinv
 	url = https://github.com/andrewzm/sparseinv
-	shallow = true
-	registered = true
