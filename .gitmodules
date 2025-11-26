@@ -11,6 +11,9 @@
 [submodule "IDE"]
 	path = IDE
 	url = https://github.com/andrewzm/ide
+[submodule "deepspat"]
+	path = deepspat
+	url = https://github.com/andrewzm/deepspat
 [submodule "sparseinv"]
 	path = sparseinv
 	url = https://github.com/andrewzm/sparseinv
